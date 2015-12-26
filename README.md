@@ -1,7 +1,7 @@
 # https://sleepysam.github.io/
 
 
-<!DOCTYPE html>
+<# https://sleepysam.github.io/>
 <html>
 <body>
 <h1>Hello World</h1>
